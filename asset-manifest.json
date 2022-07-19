@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/like-cats/static/css/main.8e47f018.css",
+    "main.js": "/like-cats/static/js/main.5fafc13b.js",
+    "index.html": "/like-cats/index.html",
+    "static/media/VectorB.svg": "/like-cats/static/media/VectorB.6adfe85f8b98c6dc6b44.svg",
+    "static/media/Vector.svg": "/like-cats/static/media/Vector.8220379cb36244a7738b.svg",
+    "main.8e47f018.css.map": "/like-cats/static/css/main.8e47f018.css.map",
+    "main.5fafc13b.js.map": "/like-cats/static/js/main.5fafc13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e47f018.css",
+    "static/js/main.5fafc13b.js"
+  ]
+}
